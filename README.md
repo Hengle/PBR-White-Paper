@@ -10,6 +10,8 @@
 - **[ 【第二章】 PBR核心理论与渲染光学原理总结](https://github.com/QianMo/PBR-White-Paper/blob/master/content/part%202/README.md)**
 
 - **[ 【第三章】 迪士尼原则的BRDF与BSDF相关总结](https://github.com/QianMo/PBR-White-Paper/blob/master/content/part%203/README.md)**
+- **[ 【第四章】 法线分布函数相关总结](https://github.com/QianMo/PBR-White-Paper/blob/master/content/part%204/README.md)**
+- **[ 【第五章】 几何函数相关总结](https://github.com/QianMo/PBR-White-Paper/blob/master/content/part%205/README.md)**
 
 - 后续章节持续更新中
 
@@ -47,4 +49,17 @@
 [【下载地址】](https://raw.githubusercontent.com/QianMo/PBR-White-Paper/master/media/3-PBR-Disney-Principled-BRDF-BSDF-Knowledge-Architecture.png)**
 
 ![](media/3-PBR-Disney-Principled-BRDF-BSDF-Knowledge-Architecture.png)
+
+
+# 【第四章】法线分布函数相关总结架构图
+- **[法线分布函数相关总结架构图知识架构图] 高清大图：
+[【下载地址】](https://raw.githubusercontent.com/QianMo/PBR-White-Paper/master/media/4-PBR-The-NDF.png)**
+
+![](media/4-PBR-The-NDF.png)
+
+# 【第五章】几何函数相关总结架构图
+- **[几何函数相关总结架构图知识架构图] 高清大图：
+[【下载地址】](https://raw.githubusercontent.com/QianMo/PBR-White-Paper/master/media/5-PBR-The-Geometry-Function.png)**
+
+![](media/5-PBR-The-Geometry-Function.png)
 
